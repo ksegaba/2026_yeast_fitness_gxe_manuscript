@@ -13,7 +13,7 @@ Manuscript code and datasets
 
 ## Datasets
 - Raw datasets from Peter et al. 2018 can be downloaded from http://1002genomes.u-strasbg.fr/files/
-- Supplementary files generated for this project were uploaded to Zenodo at https://doi.org/10.5281/zenodo.17245961
+- Supplementary files generated for this project were uploaded to Zenodo at https://doi.org/10.5281/zenodo.19824394
 
 ---
 
