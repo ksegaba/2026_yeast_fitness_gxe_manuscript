@@ -109,6 +109,6 @@ This directory contains scripts used to generate all main figures, supplementary
 | `Table_S8_combine_go_pwy_enrichment.py`                       | Combines GO and pathway enrichment outputs into supplementary table S8.                                     |
 | `Table_S11_lit_gene_enrichment.py`                            | Generates supplementary table S11.                                                                          |
 | `Calculate_heritability_sommer.R`                             | Estimates heritability using the `sommer` package.                                                          |
-| `S12_S14_S17_Table_additional_analyses.py`                    | Comparative analysis of SHAP values and SHAP interaction values. Results added to S12, S14, and S17 Tables. |
+| `S12_S14_S17_Table_additional_analyses.py`                    | Comparative analysis of SHAP values and SHAP interaction values. Results added to S12 and S14 Tables.       |
 | `Table_S1_genetic_variation.py`                               | Estimates of genetic variation using SNPs, PAVs, and CNVs. Results added to Table S1.                       |
 
