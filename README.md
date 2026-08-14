@@ -2,6 +2,26 @@
 Manuscript code and datasets
 
 <a href="https://doi.org/10.5281/zenodo.19827559"><img src="https://zenodo.org/badge/1222677780.svg" alt="DOI"></a>
+
+__Paper citation__
+```
+@article{10.1093/nargab/lqag084,
+    author = {Segura Abá, Kenia E and Izquierdo, Paulo and de Los Campos, Gustavo and Lehti-Shiu, Melissa D and Shiu, Shin-Han},
+    title = {Predictive models of the genetic bases underlying budding yeast fitness in multiple environments},
+    journal = {NAR Genomics and Bioinformatics},
+    volume = {8},
+    number = {3},
+    pages = {lqag084},
+    year = {2026},
+    month = {09},
+    issn = {2631-9268},
+    doi = {10.1093/nargab/lqag084},
+    url = {https://doi.org/10.1093/nargab/lqag084},
+    eprint = {https://academic.oup.com/nargab/article-pdf/8/3/lqag084/70608117/lqag084.pdf},
+}
+
+```
+
 ---
 
 ### Table of Contents
